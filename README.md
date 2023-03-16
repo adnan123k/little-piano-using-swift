@@ -8,7 +8,7 @@ it's little piano simulation developed using swift
 ## how to run it:
 * install xcode
 * open Xylophone.xcodeproj project in xcode
-* run it wether in your physical device or in your ios emulation
+* run it wither in your physical device or in your ios emulation
 
 ## example:
 
